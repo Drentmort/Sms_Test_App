@@ -9,4 +9,4 @@
 
         ./src/SmsTest.WpfApp
 
-Собирается все путем сбора солюшна SmsTest.sln
+Собирается все путем сбора солюшна SmsTest.sln  
